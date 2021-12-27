@@ -2,9 +2,9 @@
 
 
 
-## Repositório construído para o desafio de projeto git/ github promovido pela Dio
+#### Repositório construído para o desafio de projeto git/ github promovido pela Dio
 
-### Resolvi Criar um arquivo markdown com as minhas anotações sobre a utilização do git bash!
+## Resolvi Criar um arquivo markdown com as minhas anotações sobre a utilização do git bash!
 
 
  As anotações consistem em uma série organizada de comandos que precisamos aprender inicialmente para subir e atualizar versões de arquivos com git bash, e enviá-las para nosso repositório no github. 

@@ -20,17 +20,17 @@ git add .
 
 git commit -m "qualquernome"
 
-//Para ver histórico: 
+#### Para ver histórico: 
 
 git log --oneline 
 
-//finalizando: 
+#### finalizando: 
 
 git push origin main 
 
 FOI!!!
 
-//Se necessário limpar a pasta .git use  
+#### Se necessário limpar a pasta .git use  
 
  rm -rf .git/
 

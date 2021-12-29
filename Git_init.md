@@ -15,7 +15,7 @@ git status
 git branch -M main
 git push -u origin main
 
-### Checando o status doa arquivos e adicionando os pendentes:  
+### Checando o status dos arquivos e adicionando os pendentes:  
 
 git status
 

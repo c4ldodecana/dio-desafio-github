@@ -39,7 +39,8 @@ git clone
 
 #### Atualizar 
 
-git commit -m ""
+git commit -m "NomeCommit"
+
 git push origin main 
 
 #### Histórico 

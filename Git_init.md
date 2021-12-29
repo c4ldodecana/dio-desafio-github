@@ -1,8 +1,8 @@
 # Anotações - Comandos iniciais git bash 
 
-## Iniciando repositório 
+## Criação do repositório
 
-
+### Iniciando e adicionando o endereço remoto : 
 
 git init 
 
@@ -10,39 +10,42 @@ git remote add origin
 
 git status 
 
-git pull origin main
+### Mudar branch para main:
 
-git checkout -b main 
+git branch -M main
+git push -u origin main
+
+### Checando o status doa arquivos e adicionando os pendentes:  
 
 git status
 
 git add . 
 
+### Commitando...
+
 git commit -m "qualquernome"
 
-#### Para ver histórico: 
-
-git log --oneline 
-
-#### finalizando: 
+#### Enviando: 
 
 git push origin main 
 
 FOI!!!
 
-#### Se necessário limpar a pasta .git use  
+## Alterações no repositório 
 
- rm -rf .git/
-
-## Alterações no repositório
-
-### Clonar
+#### Clonar 
 
 git clone 
 
-
-### Atualizar
+#### Atualizar 
 
 git commit -m ""
-
 git push origin main 
+
+#### Histórico 
+
+git log -- oneline 
+
+#### Limpar .git/ 
+
+rm -rf .git/  
